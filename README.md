@@ -18,10 +18,9 @@ class Father:
     """The First Person of the Trinity"""
     @staticmethod
     def is_God() -> Literal[True]:
-        """checks whether this person is God
-        Returns True always
-        """
+        """Always True"""
         return True
+
 
 class Son(Father):
     """Second Person of the Trinity (Jesus Christ)"""
