@@ -14,6 +14,8 @@ Things I'm learning:
 I'm a christian programmer, yeah, I know, it's uncommon, but for those who don't believe in my God, here is a brief representation of it. 
 ```py
 from typing import Literal
+
+
 class Father:
     """The First Person of the Trinity"""
     @staticmethod
